@@ -1,9 +1,10 @@
 h1 {
-    color: green;
+    border: 2px dashed red;
     background-color: black;
 }
 p {
-    color: grey;
+    text-align: justify;
+    font-size: 20px;
 }
 
 div {
